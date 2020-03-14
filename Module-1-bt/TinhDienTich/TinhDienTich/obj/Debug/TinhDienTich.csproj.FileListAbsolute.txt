@@ -1,0 +1,5 @@
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.exe.config
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.pdb
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.pdb

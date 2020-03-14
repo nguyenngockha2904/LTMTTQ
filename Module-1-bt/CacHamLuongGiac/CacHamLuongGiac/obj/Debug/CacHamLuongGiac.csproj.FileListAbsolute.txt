@@ -1,0 +1,5 @@
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.exe.config
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.pdb
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\CacHamLuongGiac.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\CacHamLuongGiac.pdb

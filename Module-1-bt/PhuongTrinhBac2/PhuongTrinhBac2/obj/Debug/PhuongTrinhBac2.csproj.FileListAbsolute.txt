@@ -1,0 +1,6 @@
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe.config
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.pdb
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.csprojAssemblyReference.cache
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.pdb

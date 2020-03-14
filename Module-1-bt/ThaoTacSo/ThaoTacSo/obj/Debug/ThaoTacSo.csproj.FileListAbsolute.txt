@@ -1,0 +1,5 @@
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe.config
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.pdb
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.pdb

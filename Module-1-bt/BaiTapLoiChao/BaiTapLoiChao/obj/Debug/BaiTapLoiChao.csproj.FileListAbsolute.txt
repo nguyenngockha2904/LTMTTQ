@@ -1,0 +1,6 @@
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\BaiTapLoiChao.exe.config
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\BaiTapLoiChao.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\BaiTapLoiChao.pdb
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\BaiTapLoiChao.csprojAssemblyReference.cache
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\BaiTapLoiChao.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\BaiTapLoiChao.pdb

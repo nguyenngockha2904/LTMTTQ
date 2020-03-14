@@ -1,0 +1,5 @@
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\PhuongTrinhBac1.exe.config
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\PhuongTrinhBac1.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\PhuongTrinhBac1\PhuongTrinhBac1\bin\Debug\PhuongTrinhBac1.pdb
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\PhuongTrinhBac1\PhuongTrinhBac1\obj\Debug\PhuongTrinhBac1.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\PhuongTrinhBac1\PhuongTrinhBac1\obj\Debug\PhuongTrinhBac1.pdb

@@ -1,0 +1,5 @@
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.exe.config
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.pdb
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.pdb

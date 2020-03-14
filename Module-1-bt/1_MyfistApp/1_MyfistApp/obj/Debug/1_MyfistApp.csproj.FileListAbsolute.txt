@@ -1,0 +1,6 @@
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\1_MyfistApp\1_MyfistApp\bin\Debug\1_MyfistApp.exe.config
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\1_MyfistApp\1_MyfistApp\bin\Debug\1_MyfistApp.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\1_MyfistApp\1_MyfistApp\bin\Debug\1_MyfistApp.pdb
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\1_MyfistApp\1_MyfistApp\obj\Debug\1_MyfistApp.csprojAssemblyReference.cache
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\1_MyfistApp\1_MyfistApp\obj\Debug\1_MyfistApp.exe
+C:\ProjectGDU\LTMTTQ-Lê Huỳnh Phước\projects\1_MyfistApp\1_MyfistApp\obj\Debug\1_MyfistApp.pdb
